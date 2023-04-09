@@ -62,3 +62,19 @@ In App.js you can see className= box
 In react you can write classes along with functions
 ```
 
+
+##### Extensions
+```
+Material Theme
+
+Material Icon Theme
+
+
+Theme
+go to view ->  Command pallete -> preferences -> color theme -> select any theme
+
+prettier
+
+check format on save
+```
+
