@@ -27,9 +27,10 @@ ServiceWorker : it works outside the dom and it allows you to
 
 it gives an ability to work like an app on your phone
 
-so there are several apps now or websites these days that have these ServiceWorkers and they can work like an app
-so you can pretty much drag it on your phone and you can open it without any connection and 
-they still can work in the same way so gives you a kind of functionality that the browser does not allow you to do.
+so there are several apps now or websites these days that have these ServiceWorkers and 
+they can work like an app so you can pretty much drag it on your phone and you can open it 
+without any connection and they still can work in the same way so gives you a kind of functionality 
+that the browser does not allow you to do.
 ```
 
 ```
